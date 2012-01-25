@@ -1,0 +1,16 @@
+#header-content {
+    width: 940px;
+    margin: 0px auto ;
+}
+.header-space {
+    margin-top: 34px ;
+}
+offset4 {
+    margin-left: 260px ;
+}
+.offset8 {
+    margin-left: 520px ;
+}
+.content-buffer {
+    margin-bottom: 17px ;
+}
