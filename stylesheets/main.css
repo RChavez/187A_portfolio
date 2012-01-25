@@ -29,4 +29,8 @@
 .content-buffer {
     margin-bottom: 17px ;
 }
-
+#header {
+    width: 940px;
+    height: 14px;
+    margin: 17px auto;
+}
