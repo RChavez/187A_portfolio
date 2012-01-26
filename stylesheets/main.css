@@ -1,5 +1,20 @@
+#header {
+    width: 940px;
+    height: 15px;
+    margin: 50px auto;
+}
+#header-content {
+    width: 940px;
+    margin: 0px auto ;
+}
 .heading-format{
     text-align: center;
+}
+.header-space {
+    margin-top: 50px ;
+}
+.image-space {
+    margin-top: 17px ;
 }
 .right-aligned {
     text-align: right;
@@ -7,15 +22,13 @@
 .p-format{
     text-align: justify;
 }
-#header-content {
-    width: 940px;
-    margin: 0px auto ;
-}
-.header-space {
-    margin-top: 34px ;
-}
+
+
 .offset4 {
     margin-left: 260px ;
+}
+.offset6{
+    margin-left: 390px;
 }
 .offset8 {
     margin-left: 520px ;
@@ -28,9 +41,4 @@
 }
 .content-buffer {
     margin-bottom: 17px ;
-}
-#header {
-    width: 940px;
-    height: 14px;
-    margin: 17px auto;
 }
